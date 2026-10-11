@@ -1,0 +1,10 @@
+{
+  "include": ["private/sandbox"],
+  "pythonVersion": "3.13",
+  "typeCheckingMode": "recommended",
+  "executionEnvironments": [
+    {"root": "private/sandbox", "reportAny": "none", "reportMissingTypeStubs": "none",
+     "reportUnknownMemberType": "none", "reportUnknownArgumentType": "none",
+     "reportUnknownVariableType": "none", "reportUnusedCallResult": "none"}
+  ]
+}
